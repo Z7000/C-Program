@@ -11,6 +11,7 @@
     }
   }
  
+//Given an example
   int main(){
     int a[3]  = {3,2,1};
     int size = 3;
